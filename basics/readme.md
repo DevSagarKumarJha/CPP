@@ -59,4 +59,6 @@ This is the basic format that we have to remember to run most of the C++ program
 <b>If you have idea of c-language that you can see similar syntax in C-programming too.</b>
 </p>
 
-<button ><a style="color:blue; border: 1px solid blue; text-decoration:none;" href="./Literals/">Next: Literals</a></button>
+<div align="right" >
+<a style="border:2px solid dodgerblue; padding: 5px 10px; border-radius: 5px; text-decoration:none;" href="./Literals/">Next: Literals</a>
+</div>
