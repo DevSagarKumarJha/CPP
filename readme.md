@@ -3,7 +3,7 @@
 ## Index 
 
 <table>
-    <tr>
+    <tr width="100%">
         <th>Topic</th>
         <th>Links</th>
     </tr>
