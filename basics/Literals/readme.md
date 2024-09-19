@@ -167,7 +167,7 @@ int main(){
 }
 ```
 
-Output:\
+Output:
 ```bash
 NamasteI am from Bharat
 ```
@@ -206,6 +206,7 @@ Both work similarly but their performance is slightly different. In short "\n" i
 
 One piece of advice from my side. If you are getting TLE and you feel everything else is correct, try replacing "endl" with "\n".
 
+<hr/>
 <div align="center" style="border:1px solid yellow; padding: 5px 10px;">
     <p><i>"Never forget to add a semicolon, else be ready for sleepless nights debugging the error." </i></p>
 </div>
