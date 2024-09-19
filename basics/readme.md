@@ -58,7 +58,12 @@ This is the basic format that we have to remember to run most of the C++ program
 
 <b>If you have idea of c-language that you can see similar syntax in C-programming too.</b>
 </p>
-
+<div align="center" style="border:1px solid yellow; padding: 5px 10px;">
+    <p><i> Before jumping on to write basic programs, we are required to learn two things:</i></p>
+  1. What are Literals? <br/>
+  2. How do we display and print them?
+</div>
 <div align="right" >
-<a style="border:2px solid dodgerblue; padding: 5px 10px; border-radius: 5px; text-decoration:none;" href="./Literals/">Next: Literals</a>
+    
+<a style="text-decoration:none;" href="./Literals/">Next: Literals</a>
 </div>
