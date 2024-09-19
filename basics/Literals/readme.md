@@ -31,7 +31,7 @@ Boolean literals include only two logical values true and false.
 <hr/>
 
 ## How to print these literals in C++?
-```bash
+```cpp
 cout << "Hello learners"; 
 ```
 This "cout" statement is the one that helps us to print anything on the screen. We will learn more about "cout" statement later.
